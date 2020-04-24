@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name":"Iron Man",
+        "tel":"0943232",
+        "Permission":1
+    },
+    {
+        "id": 2,
+        "name":"Pack",
+        "tel":"09467676",
+        "Permission":2
+    },
+    {
+        "id": 3,
+        "name":"Viet nam",
+        "tel":"09128874",
+        "Permission":3
+    },
+    {
+        "id": 4,
+        "name":"Hoa ky",
+        "tel":"094141414",
+        "Permission":3
+    },
+    {
+        "id": 5,
+        "name":"New Zeland",
+        "tel":"09432789",
+        "Permission":2
+    }
+]
